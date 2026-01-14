@@ -1,0 +1,14 @@
+/home/nyx/C#/SiemLite/bin/Debug/net8.0/SiemLite
+/home/nyx/C#/SiemLite/bin/Debug/net8.0/SiemLite.deps.json
+/home/nyx/C#/SiemLite/bin/Debug/net8.0/SiemLite.runtimeconfig.json
+/home/nyx/C#/SiemLite/bin/Debug/net8.0/SiemLite.dll
+/home/nyx/C#/SiemLite/bin/Debug/net8.0/SiemLite.pdb
+/home/nyx/C#/SiemLite/obj/Debug/net8.0/SiemLite.GeneratedMSBuildEditorConfig.editorconfig
+/home/nyx/C#/SiemLite/obj/Debug/net8.0/SiemLite.AssemblyInfoInputs.cache
+/home/nyx/C#/SiemLite/obj/Debug/net8.0/SiemLite.AssemblyInfo.cs
+/home/nyx/C#/SiemLite/obj/Debug/net8.0/SiemLite.csproj.CoreCompileInputs.cache
+/home/nyx/C#/SiemLite/obj/Debug/net8.0/SiemLite.dll
+/home/nyx/C#/SiemLite/obj/Debug/net8.0/refint/SiemLite.dll
+/home/nyx/C#/SiemLite/obj/Debug/net8.0/SiemLite.pdb
+/home/nyx/C#/SiemLite/obj/Debug/net8.0/SiemLite.genruntimeconfig.cache
+/home/nyx/C#/SiemLite/obj/Debug/net8.0/ref/SiemLite.dll
